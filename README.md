@@ -5,7 +5,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/alexschwartz4/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alexschwartz4/azure-network-protocols)
-
+  - [DNS Intuition](https://github.com/alexschwartz4/azure-DNS)
+  - [Network File Shares and Permissions](https://github.com/alexschwartz4/Network-File-Shares-and-Permissions)
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Alex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
